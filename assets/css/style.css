@@ -39,7 +39,7 @@ body {
 }
 
 .button {
-    background-color: #3D4751; 
+    background-color: #3D4751;
     color: white;
     display: inline-block;
     font-size: 2em;
@@ -48,6 +48,11 @@ body {
     width: 200px;
     font-size:2em;
     text-decoration: none;
+}
+
+.sol {
+    margin-left: 100px!important;
+    padding-top: 100px!important;
 }
 
 .button:hover{
@@ -59,7 +64,7 @@ body {
 }
 
 form {
-    display: flex; 
+    display: flex;
     grid-column: 3;
 }
 
